@@ -1,0 +1,1 @@
+"""CBMusicBot Plugin"""
